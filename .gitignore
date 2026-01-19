@@ -1,0 +1,5 @@
+venv/
+models/handwritten_cnn.h5
+__pycache__/
+*.pyc
+.DS_Store
