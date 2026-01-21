@@ -1,18 +1,59 @@
-# Task 2 - Character Recognition
+# Handwritten Character Recognition using CNN
 
-This project is about recognizing handwritten characters using Python and Machine Learning.
+## 📌 Project Overview
 
-## Project Overview
+This project implements a **Handwritten Character Recognition System** using a **Convolutional Neural Network (CNN)**.  
+The model is trained on the **MNIST dataset** to recognize handwritten digits (0–9) and can also predict custom handwritten digit images.
 
-- Preprocessing of handwritten images
-- Training ML models (e.g., Logistic Regression, Random Forest)
-- Prediction on new images
-- Performance evaluation with Accuracy, F1-Score, etc.
+---
 
-## How to Run
+## 🎯 Objective
 
-1. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Mac/Linux
+To build a deep learning model that accurately identifies handwritten digits using image classification techniques.
+
+---
+
+## 🧠 Technologies Used
+
+- Python  
+- TensorFlow & Keras  
+- NumPy  
+- OpenCV  
+- Scikit-learn  
+- Matplotlib  
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 📊 Dataset
+
+**MNIST Handwritten Digit Dataset**
+
+- 60,000 training images  
+- 10,000 testing images  
+- Image size: 28×28 pixels  
+- Grayscale images of digits (0–9)
+
+---
+
+## ⚙️ Model Architecture
+
+- Conv2D (32 filters, 3×3, ReLU)
+- MaxPooling (2×2)
+- Conv2D (64 filters, 3×3, ReLU)
+- MaxPooling (2×2)
+- Flatten Layer
+- Dense (128 neurons, ReLU)
+- Output Dense (10 neurons, Softmax)
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Install dependencies
+
 
