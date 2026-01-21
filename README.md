@@ -72,9 +72,6 @@ Place an image named `2.png` in the project folder, then run:
 - Successfully predicts handwritten digits  
 - Supports custom image testing  
 
----
-
-## 🖼️ Sample Output
 
 
 ---
