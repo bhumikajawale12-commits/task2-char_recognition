@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project implements a **Handwritten Character Recognition System** using a **Convolutional Neural Network (CNN)**.  
+This project implements a **Handwritten Character Recognition System** using a **Convolutional Neural Network (CNN)**.
 The model is trained on the **MNIST dataset** to recognize handwritten digits (0–9) and can also predict custom handwritten digit images.
 
 ---
@@ -21,10 +21,6 @@ To build a deep learning model that accurately identifies handwritten digits usi
 - OpenCV  
 - Scikit-learn  
 - Matplotlib  
-
----
-
-## 📂 Project Structure
 
 
 ---
