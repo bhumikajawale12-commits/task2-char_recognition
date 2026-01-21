@@ -56,4 +56,46 @@ To build a deep learning model that accurately identifies handwritten digits usi
 
 ### 1️⃣ Install dependencies
 
+### 2️⃣ Train the model
+
+### 3️⃣ Evaluate the model
+
+### 4️⃣ Predict custom handwritten digit
+Place an image named `2.png` in the project folder, then run:
+
+
+---
+
+## ✅ Results
+
+- Training Accuracy: ~98%  
+- Successfully predicts handwritten digits  
+- Supports custom image testing  
+
+---
+
+## 🖼️ Sample Output
+
+
+---
+
+## 🔮 Future Scope
+
+- Extend to handwritten alphabet recognition (EMNIST)
+- Build a web app for real-time digit drawing
+- Improve accuracy with deeper CNN models
+
+---
+
+## 👩‍💻 Author
+
+**Bhumika Jawale**
+
+---
+
+## 📌 Acknowledgement
+
+MNIST Dataset by Yann LeCun  
+TensorFlow & Keras Libraries
+
 
