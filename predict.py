@@ -19,5 +19,5 @@ def predict_image(image_path):
     pred = model.predict(img)
     print("Predicted Digit:", np.argmax(pred))
 
-predict_image("1.jpeg")
+predict_image("2.png")
 

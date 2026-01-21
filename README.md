@@ -15,12 +15,12 @@ To build a deep learning model that accurately identifies handwritten digits usi
 
 ## 🧠 Technologies Used
 
-- Python  
-- TensorFlow & Keras  
-- NumPy  
-- OpenCV  
-- Scikit-learn  
-- Matplotlib  
+- Python
+- TensorFlow & Keras
+- NumPy
+- OpenCV
+- Scikit-learn
+- Matplotlib
 
 
 ---
@@ -29,9 +29,9 @@ To build a deep learning model that accurately identifies handwritten digits usi
 
 **MNIST Handwritten Digit Dataset**
 
-- 60,000 training images  
-- 10,000 testing images  
-- Image size: 28×28 pixels  
+- 60,000 training images
+- 10,000 testing images
+- Image size: 28×28 pixels
 - Grayscale images of digits (0–9)
 
 ---
@@ -64,9 +64,9 @@ Place an image named `2.png` in the project folder, then run:
 
 ## ✅ Results
 
-- Training Accuracy: ~98%  
-- Successfully predicts handwritten digits  
-- Supports custom image testing  
+- Training Accuracy: ~98%
+- Successfully predicts handwritten digits
+- Supports custom image testing
 
 
 
@@ -88,7 +88,7 @@ Place an image named `2.png` in the project folder, then run:
 
 ## 📌 Acknowledgement
 
-MNIST Dataset by Yann LeCun  
+MNIST Dataset by Yann LeCun
 TensorFlow & Keras Libraries
 
 
